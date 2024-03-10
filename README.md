@@ -1,10 +1,7 @@
 # Arduino project
-projeto voltado para contruir o jogo `Simon says` no arduino.
+projeto voltado para armazenar projetos e códigos do arduino.
 
 # Objetivos
-* criar uma lógica principal do jogo simon says
-* construir um placar de score
-    * criação de drama ao revelar o score
-* planejar ao menos uma musiquinha
-* leds, óbvio
+- portifólio inicial
+- Treino para linguagem de baixo nível (C & Assembly)
 
